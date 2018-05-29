@@ -39,7 +39,7 @@ Install the above presets using npm: npm i -D @babel/preset-react babel-preset-f
 
 Download or clone this project:
 Clone as:
-> $ git clone https://github.com/opambour/ES6-Web-Dev-t-with-Webpack-4-and-Babel-7-Beta.git projectName
+> $ git clone https://github.com/opambour/React-Web-Dev-t-with-Webpack-4-and-Babel-7-Beta.git projectName
 
 Install dependdencies as
 > $ npm install
