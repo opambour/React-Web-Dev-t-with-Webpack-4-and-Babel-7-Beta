@@ -50,12 +50,10 @@ Run webpack in development to generate dist files
 Run webpack in production to generate dist files
 > $ npm run build:prod
 
-## React Project
+## To Update React Project
 
-To use this work flow in react project, clone this repo and install react and it's required libraries as:
 > $ npm install --save react react-dom
 
 That's it...enjoy!
 
 **Version #:** 1.0.0
-
